@@ -1,1 +1,1 @@
-# charity-water-lanidng-page
+# charity-water-landing-page
